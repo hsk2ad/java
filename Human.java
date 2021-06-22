@@ -9,7 +9,7 @@ public class Human {
 		target.health -= this.strength;
 	}
 	
-	public Human(int health) {
-		this.health = health;
-	}
+//	public Human(int health) {
+//		this.health = health;
+//	}
 }
